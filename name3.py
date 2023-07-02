@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+address = input("Enter the address: ")
+email = input("Enter your email: ")
+print("my name is :", name)
+print("Address :", address)
+print("email id :", email)

@@ -1,0 +1,5 @@
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+print("The sum of", a, "and", b, "is", a + b)
+print("The difference of", a, "and", b, "is", a - b)
+print("The floor division of", a, "and", b, "is", a // b)
